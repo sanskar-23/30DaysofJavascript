@@ -1,1 +1,1 @@
-# 3DaysofJavascript
+# 30DaysofJavascript
